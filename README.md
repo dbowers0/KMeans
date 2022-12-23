@@ -6,6 +6,7 @@ Clone this repository:
 Copy Code: git clone https://github.com/your-username/kmeans.git
 
 Navigate to the root directory of the repository:
+
 Copy code: cd kmeans
 
 Compile the Java files:
