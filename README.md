@@ -34,7 +34,6 @@ Each subsequent line should contain the attribute values for a single point, fol
 
 For example, the first four lines of the file iris_bezdek might look like this:
 
-Copy code
 
 150 5 3
 
