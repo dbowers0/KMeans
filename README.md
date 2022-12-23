@@ -10,10 +10,13 @@ Navigate to the root directory of the repository:
 Copy code: cd kmeans
 
 Compile the Java files:
+
 Copy code: javac *.java
 
 Run the Kmeans class, passing in the path to the data file, max number  of iterations, convergence threshold, and max number of runs as arguments:
+
 Copy code: java Kmeans path/to/data/file "max number of iterations" "Convergence Threshold" "max number of runs"
+
 Example: java Kmeans path/to/data/file 100 .001 100
 
 File format
