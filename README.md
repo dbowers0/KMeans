@@ -23,10 +23,15 @@ File format
 The data file should be in the following format:
 
 The first line should contain three integers, separated by spaces:
+
 The first integer is the number of points in the data set.
+
 The second integer is the number of attributes for each point (including the true cluster label).
+
 The third integer is the number of true clusters in the data set.
+
 Each subsequent line should contain the attribute values for a single point, followed by the true cluster label for that point. The attribute values and true cluster label should be separated by spaces.
+
 For example, the first four lines of the file iris_bezdek might look like this:
 
 Copy code
