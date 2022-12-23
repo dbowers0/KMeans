@@ -37,9 +37,13 @@ For example, the first four lines of the file iris_bezdek might look like this:
 Copy code
 150 5 3
 5.1 3.5 1.4 0.2 0
+
 4.9 3.0 1.4 0.2 0
+
 4.7 3.2 1.3 0.2 0
-This indicates that the data set contains 150 points, each point has 5 attributes (4 dimensions and a true cluster label), 
+
+This indicates that the data set contains 150 points, each point has 5 attributes (4 dimensions and a true cluster label),
+
 and there are 3 true clusters (0, 1, or 2). In this example, the first three points all belong to cluster 0.
 
 Example data files are located in phase5.zip
